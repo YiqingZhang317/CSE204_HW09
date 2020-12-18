@@ -1,0 +1,14 @@
+#gorgeButton{
+    background-color: black;
+  border: 2px solid white;
+  border-radius:5px;
+  color: white;
+  text-align: center;
+  font-size:17px;
+  cursor:pointer;
+  margin-right:15px;
+  padding: 5px 8px;
+}
+#todoText{
+    padding: 5px 6px;
+}

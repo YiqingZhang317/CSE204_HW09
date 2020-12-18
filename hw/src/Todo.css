@@ -1,0 +1,21 @@
+.todo{
+    border: 2px solid white;
+    border-style: dotted;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+
+}
+p{
+    color:white;
+}
+.complete_buttons, .delete_buttons{
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 3px;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    cursor: pointer;
+    margin-right: 15px;
+    padding: 3px 6px;
+}
